@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Abdul Junaid
 - 👀 I’m interested in Web Development, Game Developing.
-- 🌱 I’m currently learning Javascript, php, SQL.
+- 🌱 I’m currently learning Mern stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me at satauheed.business@gmail.com
 
